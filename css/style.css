@@ -8,6 +8,8 @@
 
 body {
     font-family: 'Roboto', 'sans-serif';
+    font-weight: bold;
+    color: #f00;
     margin: 4;
     display: flex;
     flex-direction: column;
